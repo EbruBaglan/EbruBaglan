@@ -4,7 +4,6 @@
 # :raising_hand_woman: About Me <!--- :woman: -->
 - 🔭 Currently working on
   - Robot Motion Planning and Control assignment.
-  - My old codes from my local drive to publish here.
 - 📫 How to reach me: Send me an email [here](mailto:baglanebru@gmail.com).
 
 # :handshake: Connect with me
