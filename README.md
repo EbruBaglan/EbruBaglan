@@ -4,7 +4,7 @@
 ## :raising_hand_woman: About Me <!--- :woman: -->
 - ⚡ JEMARO (Japan-Europe Master's on Advanced Robotics, Erasmus+ Mundus Program)
 - M.Sc. in Advanced Robotics in Keio University, Japan, 2nd year of JEMARO
-- M.Sc. in Advanced Robotics in University of Genova, Italy, 1st year of JEMARO 
+- M.Sc. in Advanced Robotics in University of Genova(UniGe), Italy, 1st year of JEMARO 
 - 3 years of work experience in Defense Industry as R&D Engineer.
 - BSc. in Mechanical Engineering in METU, Turkey
 - 🔭 Currently working on
