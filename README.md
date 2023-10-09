@@ -21,9 +21,11 @@
   - Linear regression,
   - kNN classifier,
   - Neural Networks.
-- **IPC-benchmark:** An assignment of Advanced Robot Programming course(Inter-process Communication based) of UniGe. Compared IPC methods are:
+- **ARP-HW2_IPC_benchmark****and****ARP-HW2_IPC_benchmark_ALL** The second assignment of Advanced Robot Programming course(Inter-process Communication based) of UniGe. The IPC methods are compared for their transfer speeds. Compared IPC methods are:
+  - unnamed pipes (in **_ALL** version),
   - named pipes,
-  - shared memory. 
+  - sockets (in **_ALL** version),,
+  - shared memory.
 
 <!--
 **EbruBaglan/EbruBaglan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
