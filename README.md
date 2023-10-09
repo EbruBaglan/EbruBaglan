@@ -1,12 +1,12 @@
-# :building_construction: Under Construction
+## :building_construction: Under Construction
 - 🔭 Currently working on pushing old codes from my local drive to here.
 
-# :raising_hand_woman: About Me <!--- :woman: -->
+## :raising_hand_woman: About Me <!--- :woman: -->
 - 🔭 Currently working on
   - Robot Motion Planning and Control assignment.
 - 📫 How to reach me: Send me an email [here](mailto:baglanebru@gmail.com).
 
-# :handshake: Connect with me
+## :handshake: Connect with me
 
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ebru-baglan/)
 <!--
