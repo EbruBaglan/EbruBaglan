@@ -13,7 +13,7 @@
 - :handshake: How to connect with me: Connect me on [![linkedin badge](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ebru-baglan/)
 
 
-## :handshake: About Repositories
+## :file_folder: About Repositories
 
 ML4Rob: The repository which contains Machine Learning for Robotics course labs, taken during JEMARO ()
 
