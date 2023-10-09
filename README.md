@@ -15,8 +15,12 @@
 
 ## :file_folder: About Repositories
 
-- **ML4Rob-Labs:** The repository which contains Machine Learning for Robotics course labs of UniGe.
-- **IPC-benchmark:** An assignment of Advanced Robot Programming course(Inter-process Communication based) of UniGe.
+- **ML4Rob-Labs:** The repository which contains Machine Learning for Robotics course labs of UniGe. Implemented algprithms are:
+  - Naive Bayes classifier,
+  - Linear regression,
+  - kNN classifier,
+  - Neural Networks.
+- **IPC-benchmark:** An assignment of Advanced Robot Programming course(Inter-process Communication based) of UniGe.  
 
 
 
