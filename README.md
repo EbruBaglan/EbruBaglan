@@ -2,13 +2,21 @@
 - 🔭 Currently working on pushing old codes from my local drive to here.
 
 ## :raising_hand_woman: About Me <!--- :woman: -->
+- ⚡ JEMARO (Japan-Europe Master's on Advanced Robotics, Erasmus+ Mundus Program)
+- M.Sc. in Advanced Robotics in Keio University, Japan, 2nd year of JEMARO
+- M.Sc. in Advanced Robotics in University of Genova, Italy, 1st year of JEMARO 
+- 3 years of work experience in Defense Industry as R&D Engineer.
+- BSc. in Mechanical Engineering in METU, Turkey
 - 🔭 Currently working on
   - Robot Motion Planning and Control assignment.
-- 📫 How to reach me: Send me an email [here](mailto:baglanebru@gmail.com).
+- 📫 How to reach me: Send me an email [![gmail badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baglanebru@gmail.com)
+- :handshake: How to connect with me: Connect me on [![linkedin badge](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ebru-baglan/)
 
-## :handshake: Connect with me
 
-[![linkedin badge](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ebru-baglan/)
+## :handshake: About Repositories
+
+ML4Rob: The repository which contains Machine Learning for Robotics course labs, taken during JEMARO ()
+
 <!--
 **EbruBaglan/EbruBaglan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
