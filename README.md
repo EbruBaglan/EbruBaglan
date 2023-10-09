@@ -15,7 +15,10 @@
 
 ## :file_folder: About Repositories
 
-ML4Rob: The repository which contains Machine Learning for Robotics course labs, taken during JEMARO ()
+**ML4Rob-Labs:** The repository which contains Machine Learning for Robotics course labs of UniGe.
+**IPC-benchmark:** An assignment of Advanced Robot Programming course(Inter-process Communication based) of UniGe.
+
+
 
 <!--
 **EbruBaglan/EbruBaglan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
