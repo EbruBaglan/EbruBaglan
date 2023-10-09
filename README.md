@@ -21,7 +21,7 @@
   - Linear regression,
   - kNN classifier,
   - Neural Networks.
-- **ARP-HW2_IPC_benchmark****and****ARP-HW2_IPC_benchmark_ALL** The second assignment of Advanced Robot Programming course(Inter-process Communication based) of UniGe. The IPC methods are compared for their transfer speeds. Compared IPC methods are:
+- **ARP-HW2_IPC_benchmark** and **ARP-HW2_IPC_benchmark_ALL** The second assignment of Advanced Robot Programming course(Inter-process Communication based) of UniGe. The IPC methods are compared for their transfer speeds. Compared IPC methods are:
   - unnamed pipes (in **_ALL** version),
   - named pipes,
   - sockets (in **_ALL** version),,
