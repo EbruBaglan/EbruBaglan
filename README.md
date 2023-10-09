@@ -9,20 +9,21 @@
 - BSc. in Mechanical Engineering in METU, Turkey
 - 🔭 Currently working on
   - Robot Motion Planning and Control assignment.
-- 📫 How to reach me: Send me an email [![gmail badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baglanebru@gmail.com)
-- :handshake: How to connect with me: Connect me on [![linkedin badge](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ebru-baglan/)
+- 📫 How to reach me and connect with me
+  - 📫 Send me an email [![gmail badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baglanebru@gmail.com)
+  - :handshake: Connect me on [![linkedin badge](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ebru-baglan/)
 
 
 ## :file_folder: About Repositories
 
-- **ML4Rob-Labs:** The repository which contains Machine Learning for Robotics course labs of UniGe. Implemented algprithms are:
+- **ML4Rob-Labs:** The repository which contains Machine Learning for Robotics course labs of UniGe. Implemented algorithms are:
   - Naive Bayes classifier,
   - Linear regression,
   - kNN classifier,
   - Neural Networks.
-- **IPC-benchmark:** An assignment of Advanced Robot Programming course(Inter-process Communication based) of UniGe.  
-
-
+- **IPC-benchmark:** An assignment of Advanced Robot Programming course(Inter-process Communication based) of UniGe. Compared IPC methods are:
+  - named pipes,
+  - shared memory. 
 
 <!--
 **EbruBaglan/EbruBaglan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
