@@ -2,11 +2,11 @@
 - 🔭 Currently working on pushing old codes from my local drive to here.
 
 ## :raising_hand_woman: About Me <!--- :woman: -->
-- ⚡ JEMARO (Japan-Europe Master's on Advanced Robotics, Erasmus+ Mundus Program)
-- M.Sc. in Advanced Robotics in Keio University, Japan, 2nd year of JEMARO
-- M.Sc. in Advanced Robotics in University of Genova(UniGe), Italy, 1st year of JEMARO 
+⚡ JEMARO (Japan-Europe Master's on Advanced Robotics, Erasmus+ Mundus Program)
+- :mortar_board: M.Sc. in Advanced Robotics in Keio University, Japan, 2nd year of JEMARO
+- :mortar_board: M.Sc. in Advanced Robotics in University of Genova(UniGe), Italy, 1st year of JEMARO 
 - 3 years of work experience in Defense Industry as R&D Engineer.
-- BSc. in Mechanical Engineering in METU, Turkey
+- :mortar_board: BSc. in Mechanical Engineering in METU, Turkey
 - 🔭 Currently working on
   - Robot Motion Planning and Control assignment.
 - 📫 How to reach me and connect with me
@@ -24,7 +24,7 @@
 - **ARP-HW2_IPC_benchmark** and **ARP-HW2_IPC_benchmark_ALL:** The second assignment of Advanced Robot Programming course(Inter-process Communication based) of UniGe. The IPC methods are compared for their transfer speeds. Compared IPC methods are:
   - unnamed pipes (in **_ALL** version),
   - named pipes,
-  - sockets (in **_ALL** version),,
+  - sockets (in **_ALL** version),
   - shared memory.
 
 <!--
