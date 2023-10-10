@@ -27,7 +27,7 @@
   - sockets (in **_ALL** version),
   - shared memory.
 
-- **ARP-HW1_Tower_Crane:** The first assignment of Advanced Robot Programming course(Inter-process Communication based) of UniGe. In a tower crane scenario, two motors are supposed to order motion on the crane. The project is done using pipes. For details, please visit the repo.
+- **ARP-HW1_TowerCrane:** The first assignment of Advanced Robot Programming course(Inter-process Communication based) of UniGe. In a tower crane scenario, two motors are supposed to order motion on the crane. The project is done using pipes. For details, please visit the repo.
 
 <!--
 **EbruBaglan/EbruBaglan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
