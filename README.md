@@ -5,7 +5,7 @@
 ⚡ JEMARO (Japan-Europe Master's on Advanced Robotics, Erasmus+ Mundus Program)
 - :mortar_board: M.Sc. in Advanced Robotics in Keio University, Japan, 2nd year of JEMARO
 - :mortar_board: M.Sc. in Advanced Robotics in University of Genova(UniGe), Italy, 1st year of JEMARO 
-- 3 years of work experience in Defense Industry as R&D Engineer.
+- :office: 3 years of work experience in Defense Industry as R&D Engineer.
 - :mortar_board: BSc. in Mechanical Engineering in METU, Turkey
 - 🔭 Currently working on
   - Robot Motion Planning and Control assignment.
