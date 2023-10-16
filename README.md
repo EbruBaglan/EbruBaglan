@@ -15,7 +15,7 @@
 
 
 ## :file_folder: About Repositories
-
+- **final_assignment** The Research Track course's last assignment to use ROS nodes, Python, CMake etc. The explanations to be added later.
 - **ML4Rob-Labs:** The repository which contains Machine Learning for Robotics course labs of UniGe. Implemented algorithms are:
   - Naive Bayes classifier,
   - Linear regression,
