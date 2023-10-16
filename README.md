@@ -8,7 +8,7 @@
 - :office: 3 years of work experience in Defense Industry as R&D Engineer.
 - :mortar_board: BSc. in Mechanical Engineering in METU, Turkey
 - 🔭 Currently working on
-  - Robot Motion Planning and Control assignment: Tangent Bug Implementation.
+  - Robot Motion Planning and Control assignment: Bug1, Bug2 and Tangent Bug Implementation.
 - 📫 How to reach me and connect with me
   - 📫 Send me an email [![gmail badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baglanebru@gmail.com)
   - :handshake: Connect me on [![linkedin badge](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ebru-baglan/)
