@@ -1,14 +1,15 @@
 ## :building_construction: Under Construction
-- 🔭 Currently working on pushing old codes from my local drive to here.
+- 🔭 Currently adding ROS+Gazebo tutorials here.
+<!-- working on pushing old codes from my local drive to here. -->
 
 ## :raising_hand_woman: About Me <!--- :woman: -->
-- ⚡ JEMARO (Japan-Europe Master's on Advanced Robotics, Erasmus+ Mundus Program)
+- :office: 3 years of work experience in Defense Industry as R&D Engineer.
+- :mortar_board: MSc. within the scope of JEMARO (Japan-Europe Master's on Advanced Robotics, Erasmus+ Mundus Program)
   - :mortar_board: M.Sc. in Advanced Robotics in Keio University, Japan, 2nd year of JEMARO
   - :mortar_board: M.Sc. in Advanced Robotics in University of Genova(UniGe), Italy, 1st year of JEMARO 
-- :office: 3 years of work experience in Defense Industry as R&D Engineer.
-- :mortar_board: BSc. in Mechanical Engineering in METU, Turkey
-- 🔭 Currently working on
-  - Robot Motion Planning and Control assignment: Bug0, Bug1, Bug2 and Tangent Bug Implementation.
+- :mortar_board: BSc. in Mechanical Engineering in METU, Turkiye
+<!-- - 🔭 Currently working on
+  - Robot Motion Planning and Control assignment: Bug0, Bug1, Bug2 and Tangent Bug Implementation. -->
 - 📫 How to reach me and connect with me
   - 📫 Send me an email [![gmail badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baglanebru@gmail.com)
   - :handshake: Connect me on [![linkedin badge](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ebru-baglan/)
